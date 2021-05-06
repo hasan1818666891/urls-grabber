@@ -6,17 +6,17 @@ ANY-PLATFORM WITH PYTHON 3
 # HOW TO USE
 INSTALL FIRST
 
-git clone https://github.com/josifkhan/urler-Eb
+git clone https://github.com/josifkhan/Email-Hijacker
 
-cd urler-Eb
+cd Email-Hijacker
 
 pip install -r requirements.txt
 
-python urler-eb.py
+python email-hijacker.py
 
 
 usages:
-python3 urler-eb.py
+python3 email-hijacker.py
 
 {
 
