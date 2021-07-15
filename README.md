@@ -2,6 +2,7 @@
 Simple tool to grab all directories and urls of any web pages. built in python3.
 # SUPPORTED PLATFORM
 ANY-PLATFORM WITH PYTHON 3
+LINUX RECOMMENDED
 
 # HOW TO USE
 INSTALL FIRST
